@@ -1,0 +1,7 @@
+<suite name="Rebalancing Suite">
+    <test name="Portfolio Tests">
+        <classes>
+            <class name="org.crdassessment.rebalancingsolution.test.RebalancingServiceTest"/>
+        </classes>
+    </test>
+</suite>

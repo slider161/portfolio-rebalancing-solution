@@ -1,0 +1,6 @@
+symbol,targetPercent,currentPercent,unitPrice,expectedShares
+IBM,20,10,150,66.67
+MSFT,20,20,90,0.0
+ORCL,20,30,220,45.45
+AAPL,20,20,450,0.0
+HD,20,20,70,0.0
